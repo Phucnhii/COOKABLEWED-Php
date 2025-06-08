@@ -46,7 +46,6 @@ Quản Lý Phiên Bản: Git, GitHub
 - AI Integrated - Chatbot: Interactive chatbot powered by ChatGPT Turbo 3.5 (subscription-based).
 - Detect Ingredient with Image: Use image recognition to identify ingredients from uploaded photos.
 ### Bonus
-+ Video Seminar (298 Likes)
 + Deploy Web: Deployed on a scalable and robust hosting service.
 + Google PageSpeed and SEO Score 91: Optimized for performance and search engine ranking.
 
