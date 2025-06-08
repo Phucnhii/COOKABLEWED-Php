@@ -16,7 +16,6 @@ Chào mừng bạn đến với Cookabe! Đây là một dự án website nấu 
 - Tích Hợp AI - Chatbot: Chatbot tương tác sử dụng ChatGPT Turbo 3.5 (có phí).
 - Nhận Diện Nguyên Liệu Bằng Hình Ảnh: Sử dụng nhận diện hình ảnh để xác định nguyên liệu từ các ảnh tải lên.
 ### Bonus
-- Video giữa kì (298 Lượt Thích)
 - Triển Khai Web: Được triển khai trên dịch vụ lưu trữ mạnh mẽ và mở rộng.
 - Điểm Google PageSpeed và SEO 91: Tối ưu hóa cho hiệu suất và xếp hạng công cụ tìm kiếm.
 ### 🎨 Thiết Kế UI/UX
