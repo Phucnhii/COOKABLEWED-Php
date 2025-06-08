@@ -156,9 +156,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_FILES['image']) && $_FILES[
     
     $imageData = base64_encode(file_get_contents($uploadFile));
     
-    // $visionApiKey = 'AIzaSyCTqYaPNYMzY_48Q1aVu8UdFePIaCuE0F8';
-    // $translateApiKey = 'AIzaSyCTqYaPNYMzY_48Q1aVu8UdFePIaCuE0F8';
-    // $languageApiKey = 'AIzaSyCTqYaPNYMzY_48Q1aVu8UdFePIaCuE0F8';
+    // $visionApiKey = 'api';
+    // $translateApiKey = 'api';
+    // $languageApiKey = 'api';
     
     $curl = curl_init();
     
